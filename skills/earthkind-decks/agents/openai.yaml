@@ -1,0 +1,4 @@
+interface:
+  display_name: "Earthkind Decks"
+  short_description: "Apply the shared Earthkind brand guide"
+  default_prompt: "Use $earthkind-decks to style this artifact with the current approved Earthkind guide."

@@ -1,0 +1,24 @@
+{
+  "release": "2.0.0",
+  "sample_slides": 5,
+  "sample_pptx_sha256": "7a4da1a0b91aed6774eef81c3f3d810062f85bfb0c0d6d17537f2962b8230693",
+  "package_integrity": "pass",
+  "encoded_font_families": [
+    "Sen",
+    "Inter"
+  ],
+  "heading_fit": "pass",
+  "first_party_import": "pass",
+  "offline_geometry_objects": 55,
+  "offline_geometry_max_error_pt": 0,
+  "synthetic_target_write_guard": "pass",
+  "protected_reference_write_guard": "pass",
+  "visual_previews_inspected": 5,
+  "intentional_artwork_bleed_slides": [
+    2,
+    4,
+    5
+  ],
+  "live_google_slides_verified": false,
+  "native_powerpoint_render_verified": false
+}

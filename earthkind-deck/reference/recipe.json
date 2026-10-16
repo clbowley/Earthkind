@@ -1,0 +1,3622 @@
+{
+  "presentationId": "SYNTHETIC_REFERENCE",
+  "title": "Earthkind fictional public examples",
+  "pageSize": {
+    "width": {
+      "magnitude": 12192000,
+      "unit": "EMU"
+    },
+    "height": {
+      "magnitude": 6858000,
+      "unit": "EMU"
+    }
+  },
+  "slides": [
+    {
+      "objectId": "sample_slide_1",
+      "pageProperties": {
+        "pageBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.12156862745098039,
+                "green": 0.11764705882352941,
+                "blue": 0.10980392156862745
+              }
+            },
+            "alpha": 1
+          }
+        }
+      },
+      "pageElements": [
+        {
+          "objectId": "sample_s1_e1",
+          "size": {
+            "width": {
+              "magnitude": 3429000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1235710.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 609600,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "lockup-stacked-khaki.png"
+          }
+        },
+        {
+          "objectId": "sample_s1_e2",
+          "size": {
+            "width": {
+              "magnitude": 8890000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1397000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 2857500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 24,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 24,
+                  "textRun": {
+                    "content": "A shared place\nto begin\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 48,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s1_e3",
+          "size": {
+            "width": {
+              "magnitude": 762000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 19050.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 4635500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s1_e4",
+          "size": {
+            "width": {
+              "magnitude": 9398000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 406400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5016500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 23,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 23,
+                  "textRun": {
+                    "content": "Public design examples\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 22,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.8705882352941177,
+                            "green": 0.8470588235294118,
+                            "blue": 0.7215686274509804
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s1_e5",
+          "size": {
+            "width": {
+              "magnitude": 10160000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 355600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5689600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 50,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 50,
+                  "textRun": {
+                    "content": "Fictional project, people, and figures throughout\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.8705882352941177,
+                            "green": 0.8470588235294118,
+                            "blue": 0.7215686274509804
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "sample_slide_2",
+      "pageProperties": {
+        "pageBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.12156862745098039,
+                "green": 0.11764705882352941,
+                "blue": 0.10980392156862745
+              }
+            },
+            "alpha": 1
+          }
+        }
+      },
+      "pageElements": [
+        {
+          "objectId": "sample_s2_e1",
+          "size": {
+            "width": {
+              "magnitude": 7543800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 7759700,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6680200,
+            "translateY": 1617980.0,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "nature-radial.png"
+          }
+        },
+        {
+          "objectId": "sample_s2_e2",
+          "size": {
+            "width": {
+              "magnitude": 12192000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 6858000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 0,
+            "translateY": 0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.82
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e3",
+          "size": {
+            "width": {
+              "magnitude": 6096000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1143000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 635000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 33,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 33,
+                  "textRun": {
+                    "content": "A neighborhood\nlearning together\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 36,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e4",
+          "size": {
+            "width": {
+              "magnitude": 762000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 19050.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 1854200,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e5",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s2_e6",
+          "size": {
+            "width": {
+              "magnitude": 5778500,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1270000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 2349500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 99,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 100,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 99,
+                  "textRun": {
+                    "content": "A fictional garden project gives\nresidents a place to share skills\nand explore what they can grow.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e7",
+          "size": {
+            "width": {
+              "magnitude": 5778500,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 762000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 3873500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 61,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 100,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 61,
+                  "textRun": {
+                    "content": "Work begins with an open workshop\nand a small planting area.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e8",
+          "size": {
+            "width": {
+              "magnitude": 5588000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 914400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5143500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 31,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 31,
+                  "textRun": {
+                    "content": "Small beginnings,\nroom to grow\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 28,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.8705882352941177,
+                            "green": 0.8470588235294118,
+                            "blue": 0.7215686274509804
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s2_e9",
+          "size": {
+            "width": {
+              "magnitude": 381000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 228600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 5905500,
+            "translateY": 6388100,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 2,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "CENTER"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 2,
+                  "textRun": {
+                    "content": "2\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 10,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "sample_slide_3",
+      "pageProperties": {
+        "pageBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.39215686274509803,
+                "green": 0.47058823529411764,
+                "blue": 0.3333333333333333
+              }
+            },
+            "alpha": 1
+          }
+        }
+      },
+      "pageElements": [
+        {
+          "objectId": "sample_s3_e1",
+          "size": {
+            "width": {
+              "magnitude": 10033000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 635000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 711200,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 24,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 24,
+                  "textRun": {
+                    "content": "Three ways to take part\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 36,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e2",
+          "size": {
+            "width": {
+              "magnitude": 762000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 19050.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 1447800,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e3",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s3_e4",
+          "size": {
+            "width": {
+              "magnitude": 3352800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 3632200,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 2133600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e5",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 2413000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 6,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 6,
+                  "textRun": {
+                    "content": "LEARN\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 700
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
+                          }
+                        }
+                      },
+                      "bold": true,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e6",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 787400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 2921000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 17,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 17,
+                  "textRun": {
+                    "content": "Shared\nworkshops\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 22,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e7",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1257300,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 4114800,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 58,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 58,
+                  "textRun": {
+                    "content": "Bring a question.\nTry a new skill.\nLearn from a neighbor.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e8",
+          "size": {
+            "width": {
+              "magnitude": 3352800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 3632200,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 4419600,
+            "translateY": 2133600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e9",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 4673600,
+            "translateY": 2413000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 5,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 5,
+                  "textRun": {
+                    "content": "GROW\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 700
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
+                          }
+                        }
+                      },
+                      "bold": true,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e10",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 787400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 4673600,
+            "translateY": 2921000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 19,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 19,
+                  "textRun": {
+                    "content": "A garden\nin common\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 22,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e11",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1257300,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 4673600,
+            "translateY": 4114800,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 60,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 60,
+                  "textRun": {
+                    "content": "Choose a small plot.\nPlan what to plant.\nShare the harvest.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e12",
+          "size": {
+            "width": {
+              "magnitude": 3352800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 3632200,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 8026400,
+            "translateY": 2133600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e13",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 8280400,
+            "translateY": 2413000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 8,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 8,
+                  "textRun": {
+                    "content": "CONNECT\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 700
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
+                          }
+                        }
+                      },
+                      "bold": true,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e14",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 787400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 8280400,
+            "translateY": 2921000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 18,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 18,
+                  "textRun": {
+                    "content": "A place\nto gather\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 22,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e15",
+          "size": {
+            "width": {
+              "magnitude": 2844800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1257300,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 8280400,
+            "translateY": 4114800,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 69,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 69,
+                  "textRun": {
+                    "content": "Meet around a table.\nListen to local stories.\nMake space for others.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s3_e16",
+          "size": {
+            "width": {
+              "magnitude": 381000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 228600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 5905500,
+            "translateY": 6388100,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 2,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "CENTER"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 2,
+                  "textRun": {
+                    "content": "3\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 10,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "sample_slide_4",
+      "pageProperties": {
+        "pageBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.8705882352941177,
+                "green": 0.8470588235294118,
+                "blue": 0.7215686274509804
+              }
+            },
+            "alpha": 1
+          }
+        }
+      },
+      "pageElements": [
+        {
+          "objectId": "sample_s4_e1",
+          "size": {
+            "width": {
+              "magnitude": 9144000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 9144000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 3711575.0,
+            "translateY": -771525.0,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "glyph-large-green.png"
+          }
+        },
+        {
+          "objectId": "sample_s4_e2",
+          "size": {
+            "width": {
+              "magnitude": 12192000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 6858000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 0,
+            "translateY": 0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.8705882352941177,
+                      "green": 0.8470588235294118,
+                      "blue": 0.7215686274509804
+                    }
+                  },
+                  "alpha": 0.62
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e3",
+          "size": {
+            "width": {
+              "magnitude": 10033000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 635000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 711200,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 28,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 28,
+                  "textRun": {
+                    "content": "An illustrative annual plan\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 36,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e4",
+          "size": {
+            "width": {
+              "magnitude": 762000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 19050.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 1447800,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e5",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "glyph-small-gray.png"
+          }
+        },
+        {
+          "objectId": "sample_s4_e6",
+          "size": {
+            "width": {
+              "magnitude": 5156200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 3390900,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 2133600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e7",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 2413000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 15,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 15,
+                  "textRun": {
+                    "content": "EXAMPLE BUDGET\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 700
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": true,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e8",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 584200,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 2921000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 9,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 9,
+                  "textRun": {
+                    "content": "$120,000\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 28,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e9",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1117600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 1066800,
+            "translateY": 3873500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 76,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 76,
+                  "textRun": {
+                    "content": "A fictional annual allowance\nfor space, materials, and\nshared coordination.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e10",
+          "size": {
+            "width": {
+              "magnitude": 5156200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 3390900,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6223000,
+            "translateY": 2133600,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e11",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6477000,
+            "translateY": 2413000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 21,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 21,
+                  "textRun": {
+                    "content": "EXAMPLE CONTRIBUTION\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 700
+                      },
+                      "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": true,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e12",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 584200,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6477000,
+            "translateY": 2921000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 8,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 8,
+                  "textRun": {
+                    "content": "$15,000\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 28,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e13",
+          "size": {
+            "width": {
+              "magnitude": 4648200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1117600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6477000,
+            "translateY": 3873500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 67,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 67,
+                  "textRun": {
+                    "content": "A fictional contribution\ntoward workshops and\nseasonal activities.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e14",
+          "size": {
+            "width": {
+              "magnitude": 10566400,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 317500,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5842000,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 64,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 64,
+                  "textRun": {
+                    "content": "Illustrative figures only; not Earthkind financial information.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s4_e15",
+          "size": {
+            "width": {
+              "magnitude": 381000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 228600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 5905500,
+            "translateY": 6388100,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 2,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "CENTER"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 2,
+                  "textRun": {
+                    "content": "4\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 10,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "objectId": "sample_slide_5",
+      "pageProperties": {
+        "pageBackgroundFill": {
+          "solidFill": {
+            "color": {
+              "rgbColor": {
+                "red": 0.12156862745098039,
+                "green": 0.11764705882352941,
+                "blue": 0.10980392156862745
+              }
+            },
+            "alpha": 1
+          }
+        }
+      },
+      "pageElements": [
+        {
+          "objectId": "sample_s5_e1",
+          "size": {
+            "width": {
+              "magnitude": 7747000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 8064500,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 5447030.0,
+            "translateY": 1252220.0,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "nature-branching.png"
+          }
+        },
+        {
+          "objectId": "sample_s5_e2",
+          "size": {
+            "width": {
+              "magnitude": 12192000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 6858000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 0,
+            "translateY": 0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.81
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e3",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "image": {
+            "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s5_e4",
+          "size": {
+            "width": {
+              "magnitude": 6096000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1422400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 1600200,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 27,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 90.0,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 27,
+                  "textRun": {
+                    "content": "A conversation\nstarts here\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Sen",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 48,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e5",
+          "size": {
+            "width": {
+              "magnitude": 635000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 19050.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 3312160.0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e6",
+          "size": {
+            "width": {
+              "magnitude": 5969000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 863600,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 3619500,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 62,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 62,
+                  "textRun": {
+                    "content": "Bring an idea for a shared place\nand imagine what comes next.\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 22,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 1.0,
+                            "green": 1.0,
+                            "blue": 1.0
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e7",
+          "size": {
+            "width": {
+              "magnitude": 5715000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 381000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 4838700,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 24,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 24,
+                  "textRun": {
+                    "content": "Alex River and Sam Reed\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.8705882352941177,
+                            "green": 0.8470588235294118,
+                            "blue": 0.7215686274509804
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e8",
+          "size": {
+            "width": {
+              "magnitude": 5715000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 279400,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5321300,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 27,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 27,
+                  "textRun": {
+                    "content": "Fictional example contacts\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.8705882352941177,
+                            "green": 0.8470588235294118,
+                            "blue": 0.7215686274509804
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": false
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e9",
+          "size": {
+            "width": {
+              "magnitude": 4318000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 444500,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 5854700,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
+          }
+        },
+        {
+          "objectId": "sample_s5_e10",
+          "size": {
+            "width": {
+              "magnitude": 4013200,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 292100,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 965200,
+            "translateY": 5930900,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            },
+            "text": {
+              "textElements": [
+                {
+                  "endIndex": 18,
+                  "paragraphMarker": {
+                    "style": {
+                      "lineSpacing": 114.99999999999999,
+                      "spaceAbove": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "spaceBelow": {
+                        "magnitude": 0,
+                        "unit": "PT"
+                      },
+                      "alignment": "START"
+                    }
+                  }
+                },
+                {
+                  "endIndex": 18,
+                  "textRun": {
+                    "content": "hello@example.org\n",
+                    "style": {
+                      "weightedFontFamily": {
+                        "fontFamily": "Inter",
+                        "weight": 400
+                      },
+                      "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                      },
+                      "foregroundColor": {
+                        "opaqueColor": {
+                          "rgbColor": {
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
+                          }
+                        }
+                      },
+                      "bold": false,
+                      "underline": true,
+                      "link": {
+                        "url": "mailto:hello@example.org"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

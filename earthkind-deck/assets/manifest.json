@@ -1,0 +1,34 @@
+{
+  "lockup-stacked-khaki.png": {
+    "source": "Dropbox / Logo / Earthkind - Lockup (Stacked) - Khaki.png",
+    "sha256": "5ec4d0fc8a51836e02f973ab3647e3d1076a99c38e11e78d67e082c6930c5a9f"
+  },
+  "glyph-small-khaki-4x.png": {
+    "source": "Dropbox / Logo / Earthkind - Glyph (Small) - Khaki@4x.png",
+    "sha256": "e3a9d3024aea6bc76c612b13676aafe5044fdc9b1c7868eccf8eea1cbcf9892a"
+  },
+  "glyph-large-green.png": {
+    "source": "Dropbox / Logo / Earthkind - Glyph (Large) - Green.png",
+    "sha256": "b22b29fd49f9d879f3afe7ad586619ec5d834e0de16f4c13df91eb32239f003b"
+  },
+  "glyph-large-khaki.png": {
+    "source": "Dropbox / Logo / Earthkind - Glyph (Large) - Khaki.png",
+    "sha256": "ba1d2eccd8304c55b0ebe6506d6ca0ac9da9353ffa12bf4e8617aaa38fc6d652"
+  },
+  "nature-radial.png": {
+    "source": "https://framerusercontent.com/images/ShCUhYyID2HeJs3tjtEWvpswWwk.png",
+    "sha256": "fc7e31a1bba7aec453455add5daafbfe957b82e4faef96b92973bb9e5d142f1d"
+  },
+  "nature-branching.png": {
+    "source": "https://framerusercontent.com/images/7iDxcjwVwJbSsgjcCUJOgph0Ovw.png",
+    "sha256": "dffb3909370c6a1acc78385c85e37169585da96f5adf26bd4c0ee382b1b6e7a3"
+  },
+  "paper-cover.jpeg": {
+    "source": "https://framerusercontent.com/images/XBHvBmyGTAfD5RbLBGGSgoB9hV4.jpeg",
+    "sha256": "cacae350145c5f7a24975f030d8eca21f2b220a2404e106264a1484b8737ad1e"
+  },
+  "glyph-small-gray.png": {
+    "source": "Approved Earthkind small dark gray brand glyph",
+    "sha256": "a2a338dbb040c9b29a7f64d1e718867cd7223d0cc297166f79544755a3fdf524"
+  }
+}

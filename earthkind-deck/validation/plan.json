@@ -1,0 +1,5795 @@
+{
+  "formatVersion": 1,
+  "targetPresentationId": "SYNTHETIC_TARGET",
+  "baseRevision": "synthetic-revision-1",
+  "phases": [
+    {
+      "slide": 1,
+      "pageObjectId": "sample_slide_1",
+      "requests": [
+        {
+          "updatePageProperties": {
+            "objectId": "sample_slide_1",
+            "pageProperties": {
+              "pageBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 1
+                }
+              }
+            },
+            "fields": "pageBackgroundFill"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s1_e2",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 2857500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s1_e2",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s1_e2",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s1_e2",
+            "insertionIndex": 0,
+            "text": "A shared place\nto begin"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s1_e2",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e2",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 48,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s1_e2",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e2",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 48,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s1_e3",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 4635500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s1_e3",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s1_e4",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5016500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s1_e4",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s1_e4",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s1_e4",
+            "insertionIndex": 0,
+            "text": "Public design examples"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s1_e4",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e4",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s1_e4",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 23
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e4",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 23
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s1_e5",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5689600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s1_e5",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s1_e5",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s1_e5",
+            "insertionIndex": 0,
+            "text": "Fictional project, people, and figures throughout"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s1_e5",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e5",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s1_e5",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 50
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s1_e5",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 50
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        }
+      ],
+      "assets": [
+        {
+          "action": "replace",
+          "objectId": "sample_s1_e1",
+          "asset": "lockup-stacked-khaki.png"
+        }
+      ],
+      "geometry": [
+        {
+          "objectId": "sample_s1_e1",
+          "size": {
+            "width": {
+              "magnitude": 3429000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 1235710.0,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 812800,
+            "translateY": 609600,
+            "unit": "EMU"
+          },
+          "crop": {}
+        }
+      ],
+      "background": {
+        "solidFill": {
+          "color": {
+            "rgbColor": {
+              "red": 0.12156862745098039,
+              "green": 0.11764705882352941,
+              "blue": 0.10980392156862745
+            }
+          },
+          "alpha": 1
+        }
+      },
+      "zOrder": [
+        "sample_s1_e1",
+        "sample_s1_e2",
+        "sample_s1_e3",
+        "sample_s1_e4",
+        "sample_s1_e5"
+      ]
+    },
+    {
+      "slide": 2,
+      "pageObjectId": "sample_slide_2",
+      "requests": [
+        {
+          "updatePageProperties": {
+            "objectId": "sample_slide_2",
+            "pageProperties": {
+              "pageBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 1
+                }
+              }
+            },
+            "fields": "pageBackgroundFill"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e2",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 0,
+              "translateY": 0,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e2",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.82
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e3",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 635000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e3",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s2_e3",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s2_e3",
+            "insertionIndex": 0,
+            "text": "A neighborhood\nlearning together"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s2_e3",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e3",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s2_e3",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 33
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e3",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 33
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e4",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 1854200,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e4",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e6",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 2349500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e6",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s2_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s2_e6",
+            "insertionIndex": 0,
+            "text": "A fictional garden project gives\nresidents a place to share skills\nand explore what they can grow."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s2_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e6",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s2_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 99
+            },
+            "style": {
+              "lineSpacing": 100,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 99
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e7",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 3873500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e7",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s2_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s2_e7",
+            "insertionIndex": 0,
+            "text": "Work begins with an open workshop\nand a small planting area."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s2_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e7",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s2_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 61
+            },
+            "style": {
+              "lineSpacing": 100,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 61
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e8",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5143500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e8",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s2_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s2_e8",
+            "insertionIndex": 0,
+            "text": "Small beginnings,\nroom to grow"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s2_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e8",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s2_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 31
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 31
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s2_e9",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 5905500,
+              "translateY": 6388100,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s2_e9",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s2_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s2_e9",
+            "insertionIndex": 0,
+            "text": "2"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s2_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e9",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s2_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "CENTER"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s2_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        }
+      ],
+      "assets": [
+        {
+          "action": "replace",
+          "objectId": "sample_s2_e1",
+          "asset": "nature-radial.png"
+        },
+        {
+          "action": "replace",
+          "objectId": "sample_s2_e5",
+          "asset": "glyph-small-khaki-4x.png"
+        }
+      ],
+      "geometry": [
+        {
+          "objectId": "sample_s2_e1",
+          "size": {
+            "width": {
+              "magnitude": 7543800,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 7759700,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 6680200.0,
+            "translateY": 1617980.0,
+            "unit": "EMU"
+          },
+          "crop": {}
+        },
+        {
+          "objectId": "sample_s2_e5",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "crop": {}
+        }
+      ],
+      "background": {
+        "solidFill": {
+          "color": {
+            "rgbColor": {
+              "red": 0.12156862745098039,
+              "green": 0.11764705882352941,
+              "blue": 0.10980392156862745
+            }
+          },
+          "alpha": 1
+        }
+      },
+      "zOrder": [
+        "sample_s2_e1",
+        "sample_s2_e2",
+        "sample_s2_e3",
+        "sample_s2_e4",
+        "sample_s2_e5",
+        "sample_s2_e6",
+        "sample_s2_e7",
+        "sample_s2_e8",
+        "sample_s2_e9"
+      ]
+    },
+    {
+      "slide": 3,
+      "pageObjectId": "sample_slide_3",
+      "requests": [
+        {
+          "updatePageProperties": {
+            "objectId": "sample_slide_3",
+            "pageProperties": {
+              "pageBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 1
+                }
+              }
+            },
+            "fields": "pageBackgroundFill"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e1",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 711200,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e1",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e1",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e1",
+            "insertionIndex": 0,
+            "text": "Three ways to take part"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e1",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e1",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e1",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e1",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e2",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 1447800,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e2",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e4",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 2133600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e4",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e5",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 2413000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e5",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e5",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e5",
+            "insertionIndex": 0,
+            "text": "LEARN"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e5",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e5",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e5",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 6
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e5",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 6
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e6",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 2921000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e6",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e6",
+            "insertionIndex": 0,
+            "text": "Shared\nworkshops"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e6",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 17
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 17
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e7",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 4114800,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e7",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e7",
+            "insertionIndex": 0,
+            "text": "Bring a question.\nTry a new skill.\nLearn from a neighbor."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e7",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 58
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 58
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e8",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 4419600,
+              "translateY": 2133600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e8",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e9",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 4673600,
+              "translateY": 2413000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e9",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e9",
+            "insertionIndex": 0,
+            "text": "GROW"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e9",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 5
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 5
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e10",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 4673600,
+              "translateY": 2921000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e10",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e10",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e10",
+            "insertionIndex": 0,
+            "text": "A garden\nin common"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e10",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e10",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e10",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 19
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e10",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 19
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e11",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 4673600,
+              "translateY": 4114800,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e11",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e11",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e11",
+            "insertionIndex": 0,
+            "text": "Choose a small plot.\nPlan what to plant.\nShare the harvest."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e11",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e11",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e11",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 60
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e11",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 60
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e12",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 8026400,
+              "translateY": 2133600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e12",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e13",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 8280400,
+              "translateY": 2413000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e13",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e13",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e13",
+            "insertionIndex": 0,
+            "text": "CONNECT"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e13",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e13",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e13",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 8
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e13",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 8
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e14",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 8280400,
+              "translateY": 2921000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e14",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e14",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e14",
+            "insertionIndex": 0,
+            "text": "A place\nto gather"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e14",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e14",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e14",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 18
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e14",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 18
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e15",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 8280400,
+              "translateY": 4114800,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e15",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e15",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e15",
+            "insertionIndex": 0,
+            "text": "Meet around a table.\nListen to local stories.\nMake space for others."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e15",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e15",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e15",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 69
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e15",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 69
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s3_e16",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 5905500,
+              "translateY": 6388100,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s3_e16",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s3_e16",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s3_e16",
+            "insertionIndex": 0,
+            "text": "3"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s3_e16",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e16",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s3_e16",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "CENTER"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s3_e16",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        }
+      ],
+      "assets": [
+        {
+          "action": "replace",
+          "objectId": "sample_s3_e3",
+          "asset": "glyph-small-khaki-4x.png"
+        }
+      ],
+      "geometry": [
+        {
+          "objectId": "sample_s3_e3",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "crop": {}
+        }
+      ],
+      "background": {
+        "solidFill": {
+          "color": {
+            "rgbColor": {
+              "red": 0.39215686274509803,
+              "green": 0.47058823529411764,
+              "blue": 0.3333333333333333
+            }
+          },
+          "alpha": 1
+        }
+      },
+      "zOrder": [
+        "sample_s3_e1",
+        "sample_s3_e2",
+        "sample_s3_e3",
+        "sample_s3_e4",
+        "sample_s3_e5",
+        "sample_s3_e6",
+        "sample_s3_e7",
+        "sample_s3_e8",
+        "sample_s3_e9",
+        "sample_s3_e10",
+        "sample_s3_e11",
+        "sample_s3_e12",
+        "sample_s3_e13",
+        "sample_s3_e14",
+        "sample_s3_e15",
+        "sample_s3_e16"
+      ]
+    },
+    {
+      "slide": 4,
+      "pageObjectId": "sample_slide_4",
+      "requests": [
+        {
+          "updatePageProperties": {
+            "objectId": "sample_slide_4",
+            "pageProperties": {
+              "pageBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.8705882352941177,
+                      "green": 0.8470588235294118,
+                      "blue": 0.7215686274509804
+                    }
+                  },
+                  "alpha": 1
+                }
+              }
+            },
+            "fields": "pageBackgroundFill"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e2",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 0,
+              "translateY": 0,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e2",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.8705882352941177,
+                      "green": 0.8470588235294118,
+                      "blue": 0.7215686274509804
+                    }
+                  },
+                  "alpha": 0.62
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e3",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 711200,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e3",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e3",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e3",
+            "insertionIndex": 0,
+            "text": "An illustrative annual plan"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e3",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e3",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e3",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 28
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e3",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 28
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e4",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 1447800,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e4",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e6",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 2133600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e6",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e7",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 2413000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e7",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e7",
+            "insertionIndex": 0,
+            "text": "EXAMPLE BUDGET"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e7",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 15
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 15
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e8",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 2921000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e8",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e8",
+            "insertionIndex": 0,
+            "text": "$120,000"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e8",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 9
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 9
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e9",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 1066800,
+              "translateY": 3873500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e9",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e9",
+            "insertionIndex": 0,
+            "text": "A fictional annual allowance\nfor space, materials, and\nshared coordination."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e9",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e9",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 76
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e9",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 76
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e10",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 6223000,
+              "translateY": 2133600,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e10",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e11",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 6477000,
+              "translateY": 2413000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e11",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e11",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e11",
+            "insertionIndex": 0,
+            "text": "EXAMPLE CONTRIBUTION"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e11",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e11",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e11",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 21
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e11",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 21
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 700
+              },
+              "fontSize": {
+                "magnitude": 12,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": true,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e12",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 6477000,
+              "translateY": 2921000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e12",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e12",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e12",
+            "insertionIndex": 0,
+            "text": "$15,000"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e12",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e12",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e12",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 8
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e12",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 8
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 28,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e13",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 6477000,
+              "translateY": 3873500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e13",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e13",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e13",
+            "insertionIndex": 0,
+            "text": "A fictional contribution\ntoward workshops and\nseasonal activities."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e13",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e13",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e13",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 67
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e13",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 67
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e14",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5842000,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e14",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e14",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e14",
+            "insertionIndex": 0,
+            "text": "Illustrative figures only; not Earthkind financial information."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e14",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e14",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e14",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 64
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e14",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 64
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s4_e15",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 5905500,
+              "translateY": 6388100,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s4_e15",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s4_e15",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s4_e15",
+            "insertionIndex": 0,
+            "text": "4"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s4_e15",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e15",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s4_e15",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "CENTER"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s4_e15",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 2
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 10,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.3686274509803922,
+                    "green": 0.36470588235294116,
+                    "blue": 0.35294117647058826
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        }
+      ],
+      "assets": [
+        {
+          "action": "replace",
+          "objectId": "sample_s4_e1",
+          "asset": "glyph-large-green.png"
+        },
+        {
+          "action": "replace",
+          "objectId": "sample_s4_e5",
+          "asset": "glyph-small-gray.png"
+        }
+      ],
+      "geometry": [
+        {
+          "objectId": "sample_s4_e1",
+          "size": {
+            "width": {
+              "magnitude": 9144000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 9144000,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 3711575.0,
+            "translateY": -771525.0,
+            "unit": "EMU"
+          },
+          "crop": {}
+        },
+        {
+          "objectId": "sample_s4_e5",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "crop": {}
+        }
+      ],
+      "background": {
+        "solidFill": {
+          "color": {
+            "rgbColor": {
+              "red": 0.8705882352941177,
+              "green": 0.8470588235294118,
+              "blue": 0.7215686274509804
+            }
+          },
+          "alpha": 1
+        }
+      },
+      "zOrder": [
+        "sample_s4_e1",
+        "sample_s4_e2",
+        "sample_s4_e3",
+        "sample_s4_e4",
+        "sample_s4_e5",
+        "sample_s4_e6",
+        "sample_s4_e7",
+        "sample_s4_e8",
+        "sample_s4_e9",
+        "sample_s4_e10",
+        "sample_s4_e11",
+        "sample_s4_e12",
+        "sample_s4_e13",
+        "sample_s4_e14",
+        "sample_s4_e15"
+      ]
+    },
+    {
+      "slide": 5,
+      "pageObjectId": "sample_slide_5",
+      "requests": [
+        {
+          "updatePageProperties": {
+            "objectId": "sample_slide_5",
+            "pageProperties": {
+              "pageBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 1
+                }
+              }
+            },
+            "fields": "pageBackgroundFill"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e2",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 0,
+              "translateY": 0,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e2",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.81
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e4",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 1600200,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e4",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s5_e4",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s5_e4",
+            "insertionIndex": 0,
+            "text": "A conversation\nstarts here"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s5_e4",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e4",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 48,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s5_e4",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 27
+            },
+            "style": {
+              "lineSpacing": 90.0,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e4",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 27
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Sen",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 48,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e5",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800.0,
+              "translateY": 3312160.0,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e5",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.7803921568627451,
+                      "green": 0.5764705882352941,
+                      "blue": 0.2901960784313726
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e6",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 3619500,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e6",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s5_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s5_e6",
+            "insertionIndex": 0,
+            "text": "Bring an idea for a shared place\nand imagine what comes next."
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s5_e6",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e6",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s5_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 62
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e6",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 62
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 22,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 1.0,
+                    "green": 1.0,
+                    "blue": 1.0
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e7",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 4838700,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e7",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s5_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s5_e7",
+            "insertionIndex": 0,
+            "text": "Alex River and Sam Reed"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s5_e7",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e7",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s5_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e7",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 24
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 20,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e8",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5321300,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e8",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s5_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s5_e8",
+            "insertionIndex": 0,
+            "text": "Fictional example contacts"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s5_e8",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e8",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s5_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 27
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e8",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 27
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 14,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.8705882352941177,
+                    "green": 0.8470588235294118,
+                    "blue": 0.7215686274509804
+                  }
+                }
+              },
+              "bold": false,
+              "underline": false
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e9",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 812800,
+              "translateY": 5854700,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e9",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.9411764705882353,
+                      "green": 0.9294117647058824,
+                      "blue": 0.8705882352941177
+                    }
+                  },
+                  "alpha": 1
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "updatePageElementTransform": {
+            "objectId": "sample_s5_e10",
+            "applyMode": "ABSOLUTE",
+            "transform": {
+              "scaleX": 1.0,
+              "scaleY": 1.0,
+              "shearX": 0.0,
+              "shearY": 0.0,
+              "translateX": 965200,
+              "translateY": 5930900,
+              "unit": "EMU"
+            }
+          }
+        },
+        {
+          "updateShapeProperties": {
+            "objectId": "sample_s5_e10",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP",
+              "autofit": {
+                "autofitType": "NONE"
+              }
+            },
+            "fields": "shapeBackgroundFill,outline,contentAlignment,autofit.autofitType"
+          }
+        },
+        {
+          "deleteText": {
+            "objectId": "sample_s5_e10",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "insertText": {
+            "objectId": "sample_s5_e10",
+            "insertionIndex": 0,
+            "text": "hello@example.org"
+          }
+        },
+        {
+          "deleteParagraphBullets": {
+            "objectId": "sample_s5_e10",
+            "textRange": {
+              "type": "ALL"
+            }
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e10",
+            "textRange": {
+              "type": "ALL"
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": false,
+              "underline": true,
+              "link": {
+                "url": "mailto:hello@example.org"
+              }
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        },
+        {
+          "updateParagraphStyle": {
+            "objectId": "sample_s5_e10",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 18
+            },
+            "style": {
+              "lineSpacing": 114.99999999999999,
+              "spaceAbove": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "spaceBelow": {
+                "magnitude": 0,
+                "unit": "PT"
+              },
+              "alignment": "START"
+            },
+            "fields": "lineSpacing,spaceAbove,spaceBelow,alignment"
+          }
+        },
+        {
+          "updateTextStyle": {
+            "objectId": "sample_s5_e10",
+            "textRange": {
+              "type": "FIXED_RANGE",
+              "startIndex": 0,
+              "endIndex": 18
+            },
+            "style": {
+              "weightedFontFamily": {
+                "fontFamily": "Inter",
+                "weight": 400
+              },
+              "fontSize": {
+                "magnitude": 16,
+                "unit": "PT"
+              },
+              "foregroundColor": {
+                "opaqueColor": {
+                  "rgbColor": {
+                    "red": 0.39215686274509803,
+                    "green": 0.47058823529411764,
+                    "blue": 0.3333333333333333
+                  }
+                }
+              },
+              "bold": false,
+              "underline": true,
+              "link": {
+                "url": "mailto:hello@example.org"
+              }
+            },
+            "fields": "weightedFontFamily,fontSize,foregroundColor,bold,underline,link"
+          }
+        }
+      ],
+      "assets": [
+        {
+          "action": "replace",
+          "objectId": "sample_s5_e1",
+          "asset": "nature-branching.png"
+        },
+        {
+          "action": "replace",
+          "objectId": "sample_s5_e3",
+          "asset": "glyph-small-khaki-4x.png"
+        }
+      ],
+      "geometry": [
+        {
+          "objectId": "sample_s5_e1",
+          "size": {
+            "width": {
+              "magnitude": 7747000,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 8064500,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 5447030.0,
+            "translateY": 1252220.0,
+            "unit": "EMU"
+          },
+          "crop": {}
+        },
+        {
+          "objectId": "sample_s5_e3",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 1,
+            "scaleY": 1,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11172024.9,
+            "translateY": 368820.7,
+            "unit": "EMU"
+          },
+          "crop": {}
+        }
+      ],
+      "background": {
+        "solidFill": {
+          "color": {
+            "rgbColor": {
+              "red": 0.12156862745098039,
+              "green": 0.11764705882352941,
+              "blue": 0.10980392156862745
+            }
+          },
+          "alpha": 1
+        }
+      },
+      "zOrder": [
+        "sample_s5_e1",
+        "sample_s5_e2",
+        "sample_s5_e3",
+        "sample_s5_e4",
+        "sample_s5_e5",
+        "sample_s5_e6",
+        "sample_s5_e7",
+        "sample_s5_e8",
+        "sample_s5_e9",
+        "sample_s5_e10"
+      ]
+    }
+  ],
+  "audit": [
+    {
+      "slide": 1,
+      "contentMatch": true,
+      "retainedObjects": 5,
+      "removedObsoleteObjects": [],
+      "addedObjects": [],
+      "styleRequests": 27
+    },
+    {
+      "slide": 2,
+      "contentMatch": true,
+      "retainedObjects": 9,
+      "removedObsoleteObjects": [],
+      "addedObjects": [],
+      "styleRequests": 45
+    },
+    {
+      "slide": 3,
+      "contentMatch": true,
+      "retainedObjects": 16,
+      "removedObsoleteObjects": [],
+      "addedObjects": [],
+      "styleRequests": 97
+    },
+    {
+      "slide": 4,
+      "contentMatch": true,
+      "retainedObjects": 15,
+      "removedObsoleteObjects": [],
+      "addedObjects": [],
+      "styleRequests": 81
+    },
+    {
+      "slide": 5,
+      "contentMatch": true,
+      "retainedObjects": 10,
+      "removedObsoleteObjects": [],
+      "addedObjects": [],
+      "styleRequests": 47
+    }
+  ]
+}
