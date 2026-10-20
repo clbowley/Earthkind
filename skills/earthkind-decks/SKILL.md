@@ -11,4 +11,6 @@ Before a new styling job, resolve this skill directory through symlinks to its G
 
 Use the host's authenticated document tools. Preserve content and link destinations; apply only the requested styling scope. Official Feather utility icons and underlined #647855 link text are mandatory. Follow the guide's native editing and visual verification requirements. Report genuine exceptions rather than claiming unverified results.
 
+Apply the guide's universal line-break and pagination check to all slide text, including tables, captions, and notes. Balance lines and resolve isolated final words in the rendered slides; do not treat a font-size or line-height setting as proof of fit.
+
 The relative reference links are maintained by the repository. Install by linking this entire skill folder with `scripts/install.py`, not by copying SKILL.md alone. For environments without filesystem/Git access, retrieve the complete current guide and required assets from the public repository using a repository connector or web access.

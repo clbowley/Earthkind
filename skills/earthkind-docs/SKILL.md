@@ -13,4 +13,6 @@ Use the host's authenticated document tools. Preserve content and link destinati
 
 For compact tables and panel groups, attempt the guide's one-page fit sequence before accepting a split: adjust widths and spacing, permit a controlled margin breakout, and preserve readable type. Verify the complete group in the rendered document.
 
+Apply the guide's universal line-break and pagination check to body text, tables, captions, references, and headings. Resolve runts, widows, and orphans in the rendered output; an API setting alone does not verify the result.
+
 The relative reference links are maintained by the repository. Install by linking this entire skill folder with `scripts/install.py`, not by copying SKILL.md alone. For environments without filesystem/Git access, retrieve the complete current guide and required assets from the public repository using a repository connector or web access.

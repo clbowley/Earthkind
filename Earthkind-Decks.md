@@ -1,6 +1,14 @@
 # Earthkind deck
 
-Version 2.0.0 · 16 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
+Version 2.0.1 · 20 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
+
+## Universal line-break and pagination check
+
+No runts, widows, or orphans in Earthkind documents or decks. Apply this to body copy, headings, captions, lists, tables, labels, and reference material, not only prominent titles. A runt is a single word stranded on the final line. A widow or orphan is an isolated first or final paragraph line across a page or column break; do not let the end of a sentence begin the next page by itself.
+
+Balance phrase breaks and parallel headings. Keep headings with their following content and keep introductions or captions with the table or figure they introduce. Prefer adjusting the text box or column width, removing accidental manual breaks, and correcting paragraph spacing before changing type size. A nonbreaking space between the final words is a scoped last resort after inspecting the rendered line; do not globally glue every paragraph ending. Preserve wording, URLs, intentional emphasis, and the type hierarchy. Do not shrink individual lines or cells to solve a fit problem.
+
+In documents, enable widow/orphan protection and use keep-with-next for headings and captions. Check actual page transitions after export; these settings alone do not prove the problem is solved. In decks, inspect every text box and balance line lengths within the layout. Recheck after any text, font, width, or pagination change. Report specific remaining exceptions instead of claiming a universal pass that was not visually verified.
 
 ## Run this guide
 

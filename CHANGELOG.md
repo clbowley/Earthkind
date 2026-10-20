@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.1 — 20 October 2026
+
+- Extend the no-runt, widow, and orphan requirement to all document and deck text, including body copy, tables, and reference material.
+- Require rendered page-transition and text-box checks after reflow; preserve wording and the type hierarchy.
+- This rule update does not certify earlier examples or validation fixtures against the new universal check.
+
 ## 2.0.0 — 16 October 2026
 
 - Initial public release with a clean Git history.
