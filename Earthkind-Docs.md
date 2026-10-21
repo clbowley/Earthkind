@@ -1,6 +1,6 @@
 # Earthkind document styling
 
-Version 2.0.1 · 20 October 2026 · Portable instructions for Codex, Claude, or another document editor.
+Version 2.0.2 · 21 October 2026 · Portable instructions for Codex, Claude, or another document editor.
 
 ## Universal line-break and pagination check
 
@@ -20,6 +20,8 @@ Default to this full profile. Use the compact-summary variant below only when re
 
 User correction, 16 October 2026: use Sen wherever the source used Manrope, including Heading 3 and inherited or local remnants. Manrope is not an approved Earthkind font. This overrides the original reference extraction; preserve the role's size, weight, color and spacing when replacing the family.
 
+User correction, 21 October 2026: never use blue for document typography. Replace the former deep blue `#0F4761` and default hyperlink blue with Earthkind olive `#647855`, including inherited named styles, direct text formatting, tables, headers and footers. This overrides older screenshots and source defaults. Preserve font family, size, emphasis and link destinations; retain approved warm-gray, ochre, teal summary-label and white-on-dark roles. Audit all tabs after applying styles so inherited blue cannot return.
+
 ## Complete reusable styles
 
 Effective values resolve omitted fields against Normal text. All styles use regular weight 400 and are non-bold. Heading 4 and Heading 6 are italic; the others are non-italic. None are underlined, struck through, or small caps by default.
@@ -29,11 +31,11 @@ Effective values resolve omitted fields against Normal text. All styles use regu
 | Normal text | Cardo | 12 pt | `#5E5D5A` | 115.83333% | 0 / 8 pt |
 | Title | Sen | 28 pt | `#5E5D5A` | 100% | 0 / 4 pt |
 | Subtitle | Cardo | 14 pt | `#595959` | 115.83333% | 0 / 8 pt |
-| Heading 1 | Play | 20 pt | `#0F4761` | 115.83333% | 18 / 4 pt |
+| Heading 1 | Play | 20 pt | `#647855` | 115.83333% | 18 / 4 pt |
 | Heading 2 | Sen | 16 pt | `#647855` | 150% | 8 / 4 pt |
 | Heading 3 | Sen | 14 pt | `#8C8238` | 115.83333% | 18 / 4 pt |
-| Heading 4 | Cardo italic | 12 pt | `#0F4761` | 115.83333% | 4 / 2 pt |
-| Heading 5 | Cardo | 12 pt | `#0F4761` | 115.83333% | 4 / 2 pt |
+| Heading 4 | Cardo italic | 12 pt | `#647855` | 115.83333% | 4 / 2 pt |
+| Heading 5 | Cardo | 12 pt | `#647855` | 115.83333% | 4 / 2 pt |
 | Heading 6 | Cardo italic | 12 pt | `#595959` | 115.83333% | 2 / 0 pt |
 
 Shared settings: left/start alignment, left-to-right direction, zero non-list indents, normal baseline, widow/orphan protection, no page break before, no visible paragraph borders, no paragraph shading, and no text highlight. Use `NEVER_COLLAPSE` paragraph spacing.
@@ -58,7 +60,7 @@ This is part of the full reference profile; it is visible against the beige page
 - Pages mode; different first-page header/footer enabled.
 - Beige page background: `#DED8B8`, RGB (222, 216, 184).
 - Warm-gray body and title: `#5E5D5A`, RGB (94, 93, 90).
-- Deep-blue headings: `#0F4761`, RGB (15, 71, 97).
+- Olive Heading 1, Heading 4 and Heading 5: `#647855`, RGB (100, 120, 85).
 - Muted-green Heading 2: `#647855`, RGB (100, 120, 85).
 - Ochre Heading 3: `#8C8238`, RGB (140, 130, 56).
 - Gray subtitle and Heading 6: `#595959`, RGB (89, 89, 89).
@@ -162,7 +164,7 @@ The default running footer is a native one-row, three-column table with evenly d
 - Label line spacing: 100%; space before/after: 0 pt; spacing mode `COLLAPSE_LISTS`.
 - Cells: transparent, zero padding on all sides, vertically centered.
 - Row minimum height: 34.5 pt; source `preventOverflow: true`.
-- Right paragraph has Heading 4 role with explicit local Sen 8 pt, non-italic, gray overrides. Apply the role first, then the overrides so the italic blue body Heading 4 does not replace the footer appearance.
+- Right paragraph has Heading 4 role with explicit local Sen 8 pt, non-italic, gray overrides. Apply the role first, then the overrides so the italic olive body Heading 4 does not replace the footer appearance.
 - Leading empty paragraph: Lexend Giga 8 pt, 100% line spacing, 0 pt after. Center page-number paragraph: Sen 8 pt, centered, 100% line spacing, 0 pt before/after, aligned with the named labels. Trailing empty paragraphs use single spacing and no added space.
 
 **First-page numbering:** center its native automatic PAGE_NUMBER field as well, using Sen 8 pt warm gray. Preserve different-first-page behavior and page-number start of 1; do not add the running names to the first page unless requested. This centered placement overrides the source’s right-aligned first-page number. Use a dynamic field, not a hardcoded numeral.
@@ -218,7 +220,7 @@ Check named definitions, effective text runs, paragraph overrides, page dimensio
 
 ## Raw source definitions
 
-Captured from the EarthKind tab only, with document-specific heading IDs removed and the user's Sen replacement applied to Heading 3. Omitted fields remain omitted and inherit from Normal text. This is reference data, not a batchUpdate request.
+Based on the EarthKind tab, with current font and color corrections applied and document-specific heading IDs removed and the user's Sen replacement applied to Heading 3. Omitted fields remain omitted and inherit from Normal text. This is reference data, not a batchUpdate request.
 
 ```json
 {
@@ -338,9 +340,9 @@ Captured from the EarthKind tab only, with document-specific heading IDs removed
         "foregroundColor": {
           "color": {
             "rgbColor": {
-              "red": 0.05882353,
-              "green": 0.2784314,
-              "blue": 0.38039216
+              "red": 0.39215687,
+              "green": 0.47058824,
+              "blue": 0.33333334
             }
           }
         },
@@ -448,9 +450,9 @@ Captured from the EarthKind tab only, with document-specific heading IDs removed
         "foregroundColor": {
           "color": {
             "rgbColor": {
-              "red": 0.05882353,
-              "green": 0.2784314,
-              "blue": 0.38039216
+              "red": 0.39215687,
+              "green": 0.47058824,
+              "blue": 0.33333334
             }
           }
         }
@@ -476,9 +478,9 @@ Captured from the EarthKind tab only, with document-specific heading IDs removed
         "foregroundColor": {
           "color": {
             "rgbColor": {
-              "red": 0.05882353,
-              "green": 0.2784314,
-              "blue": 0.38039216
+              "red": 0.39215687,
+              "green": 0.47058824,
+              "blue": 0.33333334
             }
           }
         }

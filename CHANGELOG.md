@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.2 — 21 October 2026
+
+- Remove legacy deep blue from document Heading 1, 4 and 5; use Earthkind olive #647855.
+- Make the no-blue document typography rule explicit in the guide and Docs skill, including inherited styles and default link formatting.
+- Update the machine-readable style definitions to match. This color-only change does not certify prior rendered examples.
+
 ## 2.0.1 — 20 October 2026
 
 - Extend the no-runt, widow, and orphan requirement to all document and deck text, including body copy, tables, and reference material.
