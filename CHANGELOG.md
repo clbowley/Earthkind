@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.1.0 — 21 October 2026
+
+- Add the four approved domain names, Lucide source icons, exact domain color pairings, rounded cards and pill labels.
+- Preserve the thin Democracy outline on light backgrounds; keep general utility icons Feather.
+- Specify restrained placement, separation from framework taxonomies, and native-text preservation.
+- Local mockups were rendered and inspected. This release does not certify full-document pagination; final PDF export remains a separate user-controlled step.
+
 ## 2.0.2 — 21 October 2026
 
 - Remove legacy deep blue from document Heading 1, 4 and 5; use Earthkind olive #647855.

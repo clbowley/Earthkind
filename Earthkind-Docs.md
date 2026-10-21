@@ -1,6 +1,6 @@
 # Earthkind document styling
 
-Version 2.0.2 · 21 October 2026 · Portable instructions for Codex, Claude, or another document editor.
+Version 2.1.0 · 21 October 2026 · Portable instructions for Codex, Claude, or another document editor.
 
 ## Universal line-break and pagination check
 
@@ -723,3 +723,26 @@ Report what was styled and any actual limitations. Distinguish formatting readba
 ## Iconography
 
 When a document uses utility icons, use official Feather Icons only, with consistent outline strokes, sizing, and optical alignment. Preserve Earthkind logos, brand glyphs, and nature illustrations as separate approved assets.
+
+## Domain sub-brands
+
+The four approved names are **Ecology**, **New Economics**, **Democracy**, and **AI & Technology**. Use these exact labels for Earthkind focus areas; replace older brand labels such as Economy and Technology & AI. Do not rewrite ordinary prose or rename a framework's separate categories just because it uses the word “domain.”
+
+Domain branding uses official **Lucide** icons, an explicit exception to the Feather-only utility-icon rule. General navigation, framework arrows, and other utility icons remain Feather. Preserve the supplied Lucide SVGs in `domains/`, including their rounded strokes; do not approximate them or substitute emoji.
+
+| Domain | Lucide icon | Background | Icon and label |
+| --- | --- | --- | --- |
+| Ecology | `sprout` | Lime `#E9FFBC` | Olive `#687859` |
+| New Economics | `handshake` | Olive `#687859` | Lime `#E9FFBC` |
+| Democracy | `messages-square` | Khaki `#DDD8BB` | Warm gray `#5E5D5B` |
+| AI & Technology | `brain-circuit` | Charcoal `#1F1E1C` | Lime `#E9FFBC` |
+
+These domain-specific pairings come from the approved visual reference; they do not replace the document's general olive/link token `#647855`, beige page token, or body gray. Both the icon and label use the foreground color. Democracy requires a fine muted-olive `#AAA889` outline on both large cards and small pills, so its khaki fill remains distinct on beige backgrounds.
+
+Large domain cards have softly rounded corners, approximately 10% of card width, consistent padding, icons at the top left, and uppercase Sen bold labels with restrained tracking at the bottom left. Align label bottoms across peers; use phrase breaks in New Economics and AI & Technology. Introduce all four together once in an equal-width strip aligned to the surrounding text column.
+
+Small versions are fully rounded **pills**: icon plus uppercase name, generous horizontal inset, vertically centered, with consistent height and stroke weight. A practical document starting point is 7.5–9 pt labels, 12–16 pt icons and 20–24 pt overall height. Preserve readable sizing; widen a column within approved margins or stack whole pills rather than compressing labels or breaking words. Use at most two domain pills per item, and only where relevance is explicit.
+
+Use the full strip where the organization introduces its focus areas. Use pills above relevant example headings, within selected crisis cards, or below selected table-row labels. Leave cross-cutting material untagged when a single-domain association would mislead. The domain system is distinct from framework navigation and capacity taxonomies; never equate their categories automatically. Do not add domain decoration to every page, citation, TOC entry, or section divider.
+
+Keep pills with their associated heading/content. Preserve editable text and tables. Where the host cannot render rounded native cards/pills faithfully, insert high-resolution transparent renders of the small brand component only; never flatten the surrounding prose or a complete table into an image. Retain the source SVGs and tokens, and verify insertion dimensions and optical alignment in the editor. Preserve names in nearby native text or accessible descriptions wherever the host supports them.
