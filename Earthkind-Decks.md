@@ -1,6 +1,6 @@
 # Earthkind deck
 
-Version 2.1.0 · 21 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
+Version 2.1.1 · 22 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
 
 ## Universal line-break and pagination check
 
@@ -109,6 +109,10 @@ For a callout, use one cream panel with an olive accent rule, a Sen heading and 
 These slide adaptations are design guidance derived from the document treatments, not a claim of a newly validated deck fixture. Render and inspect them in the actual destination deck.
 
 ## Line balance and text fit
+
+Apply this to every visible text box, especially introductory body copy above cards. A nearly full first line followed by a single word or short fragment is a failure even when nothing overflows. Recompose the whole sentence into two intentional phrase groups; do not merely move one extra word onto the final line. Aim for reasonably comparable visual line lengths, while giving natural syntax priority over exact equality.
+
+For a single paragraph, insert a soft line break (Shift+Enter in the editor), not a new paragraph; retain the existing leading and paragraph spacing. Native Google Slides API edits can replace the selected space with U+000B. Verify that the readback retains a single paragraph and inspect the rendered slide. Keep wording, font size, box alignment, links, and inline emphasis intact.
 
 Read every slide at presentation size. Use intentional soft line breaks at meaningful phrases, not arbitrary character counts. A line ending with a lone word such as “future.” fails. Avoid isolated articles, prepositions, or “&” at the end of a line. Prefer similar visual line lengths without breaking a natural phrase. Equal parallel cards should have equal heading line counts where practical.
 
@@ -231,7 +235,7 @@ For other decks, use the semantic/archetype workflow above. Do not bypass the co
 - Approved palette applied to every background, text role, card, rule and icon; no inherited template colors or unexpected title fonts.
 - All utility icons verified as official Feather assets, with icon names/source recorded; consistent stroke treatment and sizing; Lucide reserved for the four approved domain marks.
 - Sen headings, Inter body, bold uppercase labels; all heading leading 90%; equivalent roles use equivalent sizes; intentional exceptions documented.
-- No one-word widows in prominent text; phrase breaks balanced; parallel headings have compatible heights; labels remain ordinary searchable text.
+- No stranded final words or disproportionately short final lines in any visible text, including introductory body copy; phrase breaks balanced; parallel headings have compatible heights; labels remain ordinary searchable text.
 - Equal margins, gutters, padding and body start positions; card content is not crowded against its edges; divider/label middle alignment is optical.
 - Correct Small Khaki @4x corner glyph on dark backgrounds, exact size and position; correct lockup variant; originals untrimmed.
 - Large glyphs match the final slide-12 world placement. Nature forms have visible secondary presence, right-side mass, controlled bleed and quiet contrast; text remains the primary read.

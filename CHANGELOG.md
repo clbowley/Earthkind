@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.1 — 22 October 2026
+
+- Make balanced phrase groups mandatory for all visible slide text, including introductory body copy; prohibit disproportionately short final lines as well as single-word runts.
+- Specify soft line breaks within a paragraph, preserving leading, font size, wording, alignment and inline styles.
+- Extend the acceptance checklist beyond prominent titles. This rule update does not certify prior deck fixtures.
+
 ## 2.1.0 — 21 October 2026
 
 - Add the four approved domain names, Lucide source icons, exact domain color pairings, rounded cards and pill labels.
