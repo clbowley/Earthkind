@@ -14,3 +14,5 @@ Use the host's authenticated document tools. Preserve content and link destinati
 Apply the guide's universal line-break and pagination check to all slide text, including tables, captions, and notes. Balance entire phrases, including introductory body copy above cards, and resolve isolated final words or disproportionately short final lines in the rendered slides. Use soft breaks within a paragraph so line balancing does not add paragraph spacing; do not treat a font-size or line-height setting as proof of fit.
 
 The relative reference links are maintained by the repository. Install by linking this entire skill folder with `scripts/install.py`, not by copying SKILL.md alone. For environments without filesystem/Git access, retrieve the complete current guide and required assets from the public repository using a repository connector or web access.
+
+Remove slide numbers by default. Apply the current corner-logo, translucent-panel, connected-pillar and portrait rules; compile comment implementation status privately. Do not publish client comments or assets in this public repository. Use current guide rules over historical visual fixtures.

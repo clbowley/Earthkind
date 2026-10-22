@@ -30,5 +30,35 @@
   "glyph-small-gray.png": {
     "source": "Approved Earthkind small dark gray brand glyph",
     "sha256": "a2a338dbb040c9b29a7f64d1e718867cd7223d0cc297166f79544755a3fdf524"
+  },
+  "feather/zap.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/zap.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "85afd3069e5d060ee77624281756c923b972db40bef65e1d7a7669b58e185f1d"
+  },
+  "feather/users.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/users.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "243fdb4e387832bca0a9085dece53772cb35c0bf08b02994da9d190195fb9a4a"
+  },
+  "feather/link.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/link.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "49a50faa4dd66581290286e93b5437eef2eb53e5d2b1056b465819e90d13d06e"
+  },
+  "feather/shield.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/shield.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "4c7125a51403ca1cb4b8ced412fd54e4c831aacefb2e5b6a21164192f83ce887"
+  },
+  "feather/book-open.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/book-open.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "df29753e646e9bff5e40c80de8703478a779571e672e61ae65ca6b14fe80cf11"
+  },
+  "feather/layers.svg": {
+    "source": "https://github.com/feathericons/feather/blob/main/icons/layers.svg",
+    "license": "MIT; see feather/LICENSE",
+    "sha256": "4803c6dfbe4b6440e8695d86aefc2fdd98392e51fae2e590e993d94f8ce59d1c"
   }
 }

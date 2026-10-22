@@ -38,7 +38,7 @@ def compile_plan(reference, base):
             if e['objectId'] in orig:
                 assert normalized(text(e))==normalized(text(orig[e['objectId']])), f'Content changed: slide {i}, {e["objectId"]}'
         for key,e in orig.items():
-            assert key in {e['objectId'] for e in ref} or not normalized(text(e)), f'Unexpected text would be removed: {key}'
+            assert key in {e['objectId'] for e in ref} or (key in reference.get('removableFooterIds', []) and normalized(text(e)).isdigit()) or not normalized(text(e)), f'Unexpected text would be removed: {key}'
         requests=[{'updatePageProperties':{'objectId':bs['objectId'],'pageProperties':{'pageBackgroundFill':rs['pageProperties']['pageBackgroundFill']},'fields':'pageBackgroundFill'}}]
         for key in orig.keys()-ids: requests.append({'deleteObject':{'objectId':key}})
         assets=[]

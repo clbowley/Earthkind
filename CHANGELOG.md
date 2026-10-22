@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.2.0 — 22 October 2026
+
+- Remove deck page numbers by default; use quieter 46.7 pt corner glyphs. Document pagination is unchanged.
+- Add literal panel-transparency settings, botanical composition options, connected three-pillar diagrams, shared backbone panels, companion example slides and consistent oval portrait crops.
+- Specify the four-domain systems diagram with approved Lucide marks and color pairings; preserve existing subject icons when adding domain labels.
+- Add private comment-audit and factual-confirmation requirements. Bundle six official Feather utility SVGs with provenance and license.
+- Update the synthetic recipe for current numbering, corner glyphs, challenge art and funding-panel rules. Prior PPTX/screenshots and adapter fixtures remain historical; they do not certify this release visually. A separate private live-deck review supplies the current design evidence.
+
 ## 2.1.1 — 22 October 2026
 
 - Make balanced phrase groups mandatory for all visible slide text, including introductory body copy; prohibit disproportionately short final lines as well as single-word runts.

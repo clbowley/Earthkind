@@ -375,12 +375,12 @@
             }
           },
           "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
+            "scaleX": 0.8417508417508418,
+            "scaleY": 0.8417348608837969,
             "shearX": 0,
             "shearY": 0,
-            "translateX": 6680200,
-            "translateY": 1617980.0,
+            "translateX": 7747000,
+            "translateY": 1879600,
             "unit": "EMU"
           },
           "image": {
@@ -420,7 +420,7 @@
                       "blue": 0.10980392156862745
                     }
                   },
-                  "alpha": 0.82
+                  "alpha": 0.86
                 }
               },
               "outline": {
@@ -568,16 +568,59 @@
             }
           },
           "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
             "shearX": 0,
             "shearY": 0,
-            "translateX": 11172024.9,
-            "translateY": 368820.7,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
             "unit": "EMU"
           },
           "image": {
             "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s2_e5_quiet",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.35
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
           }
         },
         {
@@ -825,88 +868,6 @@
               ]
             }
           }
-        },
-        {
-          "objectId": "sample_s2_e9",
-          "size": {
-            "width": {
-              "magnitude": 381000,
-              "unit": "EMU"
-            },
-            "height": {
-              "magnitude": 228600,
-              "unit": "EMU"
-            }
-          },
-          "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
-            "shearX": 0,
-            "shearY": 0,
-            "translateX": 5905500,
-            "translateY": 6388100,
-            "unit": "EMU"
-          },
-          "shape": {
-            "shapeType": "RECTANGLE",
-            "shapeProperties": {
-              "shapeBackgroundFill": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "outline": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "contentAlignment": "TOP"
-            },
-            "text": {
-              "textElements": [
-                {
-                  "endIndex": 2,
-                  "paragraphMarker": {
-                    "style": {
-                      "lineSpacing": 114.99999999999999,
-                      "spaceAbove": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "spaceBelow": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "alignment": "CENTER"
-                    }
-                  }
-                },
-                {
-                  "endIndex": 2,
-                  "textRun": {
-                    "content": "2\n",
-                    "style": {
-                      "weightedFontFamily": {
-                        "fontFamily": "Inter",
-                        "weight": 400
-                      },
-                      "fontSize": {
-                        "magnitude": 10,
-                        "unit": "PT"
-                      },
-                      "foregroundColor": {
-                        "opaqueColor": {
-                          "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
-                          }
-                        }
-                      },
-                      "bold": false,
-                      "underline": false
-                    }
-                  }
-                }
-              ]
-            }
-          }
         }
       ]
     },
@@ -1065,16 +1026,59 @@
             }
           },
           "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
             "shearX": 0,
             "shearY": 0,
-            "translateX": 11172024.9,
-            "translateY": 368820.7,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
             "unit": "EMU"
           },
           "image": {
             "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s3_e3_quiet",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.39215686274509803,
+                      "green": 0.47058823529411764,
+                      "blue": 0.3333333333333333
+                    }
+                  },
+                  "alpha": 0.35
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
           }
         },
         {
@@ -1943,88 +1947,6 @@
               ]
             }
           }
-        },
-        {
-          "objectId": "sample_s3_e16",
-          "size": {
-            "width": {
-              "magnitude": 381000,
-              "unit": "EMU"
-            },
-            "height": {
-              "magnitude": 228600,
-              "unit": "EMU"
-            }
-          },
-          "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
-            "shearX": 0,
-            "shearY": 0,
-            "translateX": 5905500,
-            "translateY": 6388100,
-            "unit": "EMU"
-          },
-          "shape": {
-            "shapeType": "RECTANGLE",
-            "shapeProperties": {
-              "shapeBackgroundFill": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "outline": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "contentAlignment": "TOP"
-            },
-            "text": {
-              "textElements": [
-                {
-                  "endIndex": 2,
-                  "paragraphMarker": {
-                    "style": {
-                      "lineSpacing": 114.99999999999999,
-                      "spaceAbove": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "spaceBelow": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "alignment": "CENTER"
-                    }
-                  }
-                },
-                {
-                  "endIndex": 2,
-                  "textRun": {
-                    "content": "3\n",
-                    "style": {
-                      "weightedFontFamily": {
-                        "fontFamily": "Inter",
-                        "weight": 400
-                      },
-                      "fontSize": {
-                        "magnitude": 10,
-                        "unit": "PT"
-                      },
-                      "foregroundColor": {
-                        "opaqueColor": {
-                          "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
-                          }
-                        }
-                      },
-                      "bold": false,
-                      "underline": false
-                    }
-                  }
-                }
-              ]
-            }
-          }
         }
       ]
     },
@@ -2103,7 +2025,7 @@
                       "blue": 0.7215686274509804
                     }
                   },
-                  "alpha": 0.62
+                  "alpha": 0.82
                 }
               },
               "outline": {
@@ -2251,16 +2173,59 @@
             }
           },
           "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
             "shearX": 0,
             "shearY": 0,
-            "translateX": 11172024.9,
-            "translateY": 368820.7,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
             "unit": "EMU"
           },
           "image": {
             "asset": "glyph-small-gray.png"
+          }
+        },
+        {
+          "objectId": "sample_s4_e5_quiet",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.8705882352941177,
+                      "green": 0.8470588235294118,
+                      "blue": 0.7215686274509804
+                    }
+                  },
+                  "alpha": 0.35
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
           }
         },
         {
@@ -2296,7 +2261,7 @@
                       "blue": 0.3333333333333333
                     }
                   },
-                  "alpha": 1
+                  "alpha": 0.2
                 }
               },
               "outline": {
@@ -2373,9 +2338,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
                           }
                         }
                       },
@@ -2455,9 +2420,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
                           }
                         }
                       },
@@ -2537,9 +2502,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
                           }
                         }
                       },
@@ -2585,7 +2550,7 @@
                       "blue": 0.3333333333333333
                     }
                   },
-                  "alpha": 1
+                  "alpha": 0.2
                 }
               },
               "outline": {
@@ -2662,9 +2627,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.39215686274509803,
+                            "green": 0.47058823529411764,
+                            "blue": 0.3333333333333333
                           }
                         }
                       },
@@ -2744,9 +2709,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
                           }
                         }
                       },
@@ -2826,9 +2791,9 @@
                       "foregroundColor": {
                         "opaqueColor": {
                           "rgbColor": {
-                            "red": 1.0,
-                            "green": 1.0,
-                            "blue": 1.0
+                            "red": 0.3686274509803922,
+                            "green": 0.36470588235294116,
+                            "blue": 0.35294117647058826
                           }
                         }
                       },
@@ -2903,88 +2868,6 @@
                       },
                       "fontSize": {
                         "magnitude": 14,
-                        "unit": "PT"
-                      },
-                      "foregroundColor": {
-                        "opaqueColor": {
-                          "rgbColor": {
-                            "red": 0.3686274509803922,
-                            "green": 0.36470588235294116,
-                            "blue": 0.35294117647058826
-                          }
-                        }
-                      },
-                      "bold": false,
-                      "underline": false
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "objectId": "sample_s4_e15",
-          "size": {
-            "width": {
-              "magnitude": 381000,
-              "unit": "EMU"
-            },
-            "height": {
-              "magnitude": 228600,
-              "unit": "EMU"
-            }
-          },
-          "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
-            "shearX": 0,
-            "shearY": 0,
-            "translateX": 5905500,
-            "translateY": 6388100,
-            "unit": "EMU"
-          },
-          "shape": {
-            "shapeType": "RECTANGLE",
-            "shapeProperties": {
-              "shapeBackgroundFill": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "outline": {
-                "propertyState": "NOT_RENDERED"
-              },
-              "contentAlignment": "TOP"
-            },
-            "text": {
-              "textElements": [
-                {
-                  "endIndex": 2,
-                  "paragraphMarker": {
-                    "style": {
-                      "lineSpacing": 114.99999999999999,
-                      "spaceAbove": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "spaceBelow": {
-                        "magnitude": 0,
-                        "unit": "PT"
-                      },
-                      "alignment": "CENTER"
-                    }
-                  }
-                },
-                {
-                  "endIndex": 2,
-                  "textRun": {
-                    "content": "4\n",
-                    "style": {
-                      "weightedFontFamily": {
-                        "fontFamily": "Inter",
-                        "weight": 400
-                      },
-                      "fontSize": {
-                        "magnitude": 10,
                         "unit": "PT"
                       },
                       "foregroundColor": {
@@ -3105,16 +2988,59 @@
             }
           },
           "transform": {
-            "scaleX": 1,
-            "scaleY": 1,
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
             "shearX": 0,
             "shearY": 0,
-            "translateX": 11172024.9,
-            "translateY": 368820.7,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
             "unit": "EMU"
           },
           "image": {
             "asset": "glyph-small-khaki-4x.png"
+          }
+        },
+        {
+          "objectId": "sample_s5_e3_quiet",
+          "size": {
+            "width": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            },
+            "height": {
+              "magnitude": 662927.2999999999,
+              "unit": "EMU"
+            }
+          },
+          "transform": {
+            "scaleX": 0.8946531542749862,
+            "scaleY": 0.8946531542749862,
+            "shearX": 0,
+            "shearY": 0,
+            "translateX": 11363960.0,
+            "translateY": 256540.0,
+            "unit": "EMU"
+          },
+          "shape": {
+            "shapeType": "RECTANGLE",
+            "shapeProperties": {
+              "shapeBackgroundFill": {
+                "solidFill": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.12156862745098039,
+                      "green": 0.11764705882352941,
+                      "blue": 0.10980392156862745
+                    }
+                  },
+                  "alpha": 0.35
+                }
+              },
+              "outline": {
+                "propertyState": "NOT_RENDERED"
+              },
+              "contentAlignment": "TOP"
+            }
           }
         },
         {
@@ -3618,5 +3544,11 @@
         }
       ]
     }
+  ],
+  "brandVersion": "2.2.0",
+  "removableFooterIds": [
+    "sample_s2_e9",
+    "sample_s3_e16",
+    "sample_s4_e15"
   ]
 }
