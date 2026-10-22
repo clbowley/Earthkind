@@ -1,6 +1,6 @@
 # Earthkind deck
 
-Version 2.2.1 · 22 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
+Version 2.2.2 · 22 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
 
 ## Universal line-break and pagination check
 
@@ -101,11 +101,11 @@ Set paragraph space above/below deliberately, usually zero in separately positio
 
 Use one panel family across the deck. Standard informational cards, funding boxes, portrait cards and wide callouts use **cream #F0EDDE at 25% opacity (75% transparency)**, without an all-around outline or shadow. Keep the fill translucent; all text, photos and icons remain fully opaque.
 
-Each panel has **one 2 pt highlight edge**. Put it on top for vertical cards, comparisons and portrait cards; put it on the left for wide callouts and shared foundation bars. Use olive #647855 on khaki/light pages and khaki #DED8B8 on olive pages. Keep the rule within its own panel; never bridge a gutter. Use a separate native line or thin native rectangle. Retain subtle rounded corners; inset the edge to the straight portion when corners are strongly rounded. Preserve an existing one-edge accent when it already matches; do not double it.
+Standard informational panels have **one 2 pt highlight edge**; strongly rounded domain identity cards are the exception below. Put it on top for vertical cards, comparisons and portrait cards; put it on the left for wide callouts and shared foundation bars. Use olive #647855 on khaki/light pages and khaki #DED8B8 on olive pages. Keep the rule within its own panel; never bridge a gutter. Use a separate native line or thin native rectangle. Retain subtle rounded corners; inset the edge to the straight portion when corners are strongly rounded. Preserve an existing one-edge accent when it already matches; do not double it.
 
 On khaki, use warm-gray body text and olive labels/icons. On olive, the translucent cream composite is darker: use charcoal #1F1E1C for panel text and utility icons. Check rendered contrast rather than carrying over the old opaque-card colors.
 
-Domain identity cards are the color-preserving variant: retain the approved domain fill at **85% opacity**, with its approved foreground and a single top accent in that foreground. This keeps the brand pairings legible while sharing the same translucent, single-edge construction. On deck domain cards this single edge supersedes the earlier full Democracy outline; small Democracy pills retain their outline. Diagram hubs, page backgrounds, photo pixels, paper-cover stacks and opacity-control veils are not informational boxes and do not receive decorative panel borders.
+Strongly rounded domain identity cards are the exception: retain the approved domain fill at **85% opacity** and its approved foreground, but **omit the top/left highlight strokes**. Straight accent rules fight the rounded silhouette. Do not apply the standard panel edge automatically to these four domain cards. Small Democracy pills retain their fine outline. Diagram hubs, page backgrounds, photo pixels, paper-cover stacks and opacity-control veils are not informational boxes and do not receive decorative panel borders.
 
 Preserve the user's spacing refinements. A two-line community introduction starts around y136, with cards around y192/364 on the standard canvas, so it has room above and below. Wide backbone panels use an icon/title area on the left and descriptive copy beside it on the right. Keep all source wording and the existing card grid; do not use transparency as an excuse to reduce padding.
 
@@ -257,7 +257,7 @@ For other decks, use the semantic/archetype workflow above. Do not bypass the co
 - All utility icons verified as official Feather assets, with icon names/source recorded; consistent stroke treatment and sizing; Lucide reserved for the four approved domain marks.
 - Sen headings, Inter body, bold uppercase labels; all heading leading 90%; equivalent roles use equivalent sizes; intentional exceptions documented.
 - No stranded final words or disproportionately short final lines in any visible text, including introductory body copy; phrase breaks balanced; parallel headings have compatible heights; labels remain ordinary searchable text.
-- All informational panels use the shared translucent fill and one appropriate top/left highlight edge; no doubled borders or gutter-spanning rules; domain cards use the color-preserving variant.
+- All informational panels use the shared translucent fill and one appropriate top/left highlight edge; no doubled borders or gutter-spanning rules; strongly rounded domain cards use the color-preserving variant without highlight strokes.
 - Equal margins, gutters, padding and body start positions; card content is not crowded against its edges; divider/label middle alignment is optical.
 - No visible slide numbers. Correct Small Khaki @4x corner glyph on dark backgrounds, 46.7 pt frame at the quiet corner anchor; correct lockup variant; originals untrimmed.
 - Large glyphs match the final slide-12 world placement. Nature forms have visible secondary presence, right-side mass, controlled bleed and quiet contrast; text remains the primary read.
@@ -283,9 +283,9 @@ Domain branding uses official **Lucide** icons, an explicit exception to the Fea
 | Democracy | `messages-square` | Khaki `#DDD8BB` | Warm gray `#5E5D5B` |
 | AI & Technology | `brain-circuit` | Charcoal `#1F1E1C` | Lime `#E9FFBC` |
 
-These domain-specific pairings come from the approved visual reference; they do not replace the document's general olive/link token `#647855`, beige page token, or body gray. Both the icon and label use the foreground color. Small Democracy pills require a fine muted-olive `#AAA889` outline. Deck domain cards use the shared panel system’s single warm-gray top accent instead of a full outline, so the khaki fill remains distinct without a second border.
+These domain-specific pairings come from the approved visual reference; they do not replace the document's general olive/link token `#647855`, beige page token, or body gray. Both the icon and label use the foreground color. Small Democracy pills require a fine muted-olive `#AAA889` outline. Strongly rounded deck domain cards omit highlight strokes; do not transfer the standard panel edge to them.
 
-Large domain cards have softly rounded corners, approximately 10% of card width, consistent padding, icons at the top left, and uppercase Sen bold labels with restrained tracking at the bottom left. Align label bottoms across peers; use phrase breaks in New Economics and AI & Technology. Introduce all four together once in an equal-width strip aligned to the surrounding text column, or use the systems-diagram archetype. In compact diagram cards, the icon and label sit together at the top with body copy below; retain the same rounded shape, colors and single top edge.
+Large domain cards have softly rounded corners, approximately 10% of card width, consistent padding, icons at the top left, and uppercase Sen bold labels with restrained tracking at the bottom left. Align label bottoms across peers; use phrase breaks in New Economics and AI & Technology. Introduce all four together once in an equal-width strip aligned to the surrounding text column, or use the systems-diagram archetype. In compact diagram cards, the icon and label sit together at the top with body copy below; retain the same rounded shape and colors, without a top accent stroke.
 
 Small versions are fully rounded **pills**: icon plus uppercase name, generous horizontal inset, vertically centered, with consistent height and stroke weight. A practical document starting point is 7.5–9 pt labels, 12–16 pt icons and 20–24 pt overall height. Preserve readable sizing; widen a column within approved margins or stack whole pills rather than compressing labels or breaking words. Use at most two domain pills per item, and only where relevance is explicit.
 

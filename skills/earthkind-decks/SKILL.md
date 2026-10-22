@@ -17,4 +17,4 @@ The relative reference links are maintained by the repository. Install by linkin
 
 Remove slide numbers by default. Apply the current corner-logo, translucent-panel, connected-pillar and portrait rules; compile comment implementation status privately. Do not publish client comments or assets in this public repository. Use current guide rules over historical visual fixtures.
 
-Use the shared translucent panel system: cream at 25% opacity, one 2 pt top or left accent, and foreground colors chosen for the composed background. Domain identity cards retain their colors at 85% opacity with one top accent. Preserve photo coverage through the full oval, not just its center.
+Use the shared translucent panel system: cream at 25% opacity, one 2 pt top or left accent, and foreground colors chosen for the composed background. Strongly rounded domain identity cards retain their colors at 85% opacity without highlight strokes. Preserve photo coverage through the full oval, not just its center.

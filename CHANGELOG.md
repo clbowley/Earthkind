@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.2 — 22 October 2026
+
+- Exempt strongly rounded domain identity cards from the single-edge panel rule: remove their top highlight strokes while preserving fills, icons and layout. Small Democracy pills keep their fine outline.
+- Existing synthetic recipes contain standard rectangular panels only and remain unchanged.
+
 ## 2.2.1 — 22 October 2026
 
 - Unify informational cards, funding panels, portrait cards and wide callouts: cream at 25% opacity with one 2 pt highlight edge, top for cards and left for wide panels.
