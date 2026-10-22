@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.3 — 22 October 2026
+
+- Apply the funding-page large glyph treatment behind translucent column windows on progress and companion examples slides. Preserve text geometry and align support lines between the windows and shared backbone.
+- Existing synthetic examples do not contain this archetype; their recipes remain unchanged.
+
 ## 2.2.2 — 22 October 2026
 
 - Exempt strongly rounded domain identity cards from the single-edge panel rule: remove their top highlight strokes while preserving fills, icons and layout. Small Democracy pills keep their fine outline.

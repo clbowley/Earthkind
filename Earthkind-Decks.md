@@ -1,6 +1,6 @@
 # Earthkind deck
 
-Version 2.2.2 · 22 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
+Version 2.2.3 · 22 October 2026 · Native Google Slides · Portable instructions for Codex, Claude, or a human designer.
 
 ## Universal line-break and pagination check
 
@@ -202,7 +202,7 @@ Map by the content's job, not by slide number. The numbers below identify archet
 | 4 | **Systems diagram:** four rounded cards in the approved domain colors, exact names and Lucide marks, around a native central hub. Use bidirectional connectors for mutual reinforcement. On a 960×540 canvas, four 332×168 cards in two columns at x64/564 and two rows at y144/324 leave room for a 114 pt hub; body insets 20 pt, width292, size16. Keep all copy inside each panel and use the domain variant of the shared panel system. |
 | 5 | **Program list:** five editorial rows; 20 pt olive left headings, 16 pt descriptions, 14 pt olive highlights on right; fine separators. Parallel columns and deliberate two-line left labels. |
 | 6 | **Publication / evidence:** charcoal, title and 20 pt prose left, intact paper-cover stack right, 14 pt request/link line below. Preserve italic paper title and linked URL. Remove the obsolete faux cover when replacing it with the authentic cover. |
-| 7 | **Progress:** three equal columns with matching Feather icons, 12 pt labels, 22 pt headings and 16 pt bodies. A shared translucent cream foundation panel with one olive left edge spans beneath all three, connected by support lines. Put its icon and heading on the left and its body beside them on the right; allow padding below the final line. Put concrete examples on a companion slide when they would crowd the original metrics. |
+| 7 | **Progress:** three equal translucent cream column windows over the large green background glyph, matching the funding-pair glyph placement and 0.82 background-colored veil. Use matching Feather icons, 12 pt labels, 22 pt headings and 16 pt bodies. Apply this same treatment to the companion examples slide. Preserve existing text geometry; keep the glyph behind the veil and all panels. A shared translucent cream foundation panel with one olive left edge spans beneath all three, connected by support lines. Put its icon and heading on the left and its body beside them on the right; allow padding below the final line. Put concrete examples on a companion slide when they would crowd the original metrics. |
 | 8 | **Community 2×2:** olive background; translucent cream cards with khaki top accents at (64,192), (490,192), (64,364), (490,364), each 406×152. Headings offset (20,16), size 20 pt, frame 366×26. Bodies offset (20,46), size 16 pt, frame 366×88. Equal 20 pt gutters and visible padding; shorter copy does not shift its card baseline. |
 | 9 | **Funding pair:** khaki; two cream panels at **75% transparency (fill alpha 0.25)** with olive top accents; olive 12 pt kickers, warm-gray 28 pt features and 16 pt native bulleted body; green large glyph behind panels at the approved slide-12 placement. |
 | 10 | **Sparse callout:** khaki, one wide cream panel at 25% opacity with an olive left accent, with a genuine botanical specimen behind it; 12 pt bold kicker, 36 pt Sen panel heading, 22 pt main supporting line, muted 16 pt caption. Let whitespace do the work. |
