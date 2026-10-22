@@ -16,3 +16,5 @@ Apply the guide's universal line-break and pagination check to all slide text, i
 The relative reference links are maintained by the repository. Install by linking this entire skill folder with `scripts/install.py`, not by copying SKILL.md alone. For environments without filesystem/Git access, retrieve the complete current guide and required assets from the public repository using a repository connector or web access.
 
 Remove slide numbers by default. Apply the current corner-logo, translucent-panel, connected-pillar and portrait rules; compile comment implementation status privately. Do not publish client comments or assets in this public repository. Use current guide rules over historical visual fixtures.
+
+Use the shared translucent panel system: cream at 25% opacity, one 2 pt top or left accent, and foreground colors chosen for the composed background. Domain identity cards retain their colors at 85% opacity with one top accent. Preserve photo coverage through the full oval, not just its center.

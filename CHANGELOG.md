@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.2.1 — 22 October 2026
+
+- Unify informational cards, funding panels, portrait cards and wide callouts: cream at 25% opacity with one 2 pt highlight edge, top for cards and left for wide panels.
+- Set charcoal text/icons on translucent panels over olive; retain warm gray/olive on light pages. Domain cards preserve their branded fills at 85% opacity with one foreground-colored top accent.
+- Record the revised community introduction spacing and side-by-side backbone layout. Keep original portrait pixels fully covering their oval crops.
+- Update the synthetic panel recipes; historical sample renders remain historical.
+
 ## 2.2.0 — 22 October 2026
 
 - Remove deck page numbers by default; use quieter 46.7 pt corner glyphs. Document pagination is unchanged.
