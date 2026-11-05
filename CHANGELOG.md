@@ -1,3 +1,12 @@
+## 2.2.4 — 2026-11-05
+
+- Replace simulated dash rules with true solid strokes.
+- Require subtle data-table column rules, readable table hierarchy, and card-gutter exceptions.
+- Clarify practical-tool framework navigation and subdued secondary TOC entries.
+- Suppress cover/divider folios while preserving continuous body pagination.
+- Preserve original illustrations and limit domain branding in long-form reports.
+- Add bibliography spacing, full hyperlink destination checks, and evidence-based review closure.
+
 # Changelog
 
 ## 2.2.3 — 22 October 2026

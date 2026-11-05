@@ -1,6 +1,6 @@
 # Earthkind document styling
 
-Version 2.1.0 · 21 October 2026 · Portable instructions for Codex, Claude, or another document editor.
+Version 2.2.4 · 5 November 2026 · Portable instructions for Codex, Claude, or another document editor.
 
 ## Universal line-break and pagination check
 
@@ -44,13 +44,11 @@ Heading 1–6 keep lines together and keep with next. Normal text, Title, and Su
 
 Register all nine styles, including unused levels. Apply heading levels by semantic role, without adding content solely to use every level. Use the outer namedStyleType as the style identity; nested source paragraphStyle fields may say NORMAL_TEXT.
 
-## White rule immediately after Title
+## Solid decorative rules
 
-Include the short white rule visible under the interior title in the EarthKind / About the Authors reference. Place it in its own paragraph immediately after Title, before a subtitle or subsequent heading. Keep it left-aligned with the title. This is a separate decorative paragraph, not part of the reusable Title definition or a full-width horizontal line.
+Use a real solid vector line or paragraph border, never repeated em dashes, hyphens or underscores. Replace legacy dash-character rules rather than layering a new stroke over them. A short rule under a title starts at the title's left edge, approximately 54–66 pt wide and 1–1.5 pt thick. Place it after the complete title/subtitle group consistently. Keep it with the following content.
 
-The source implements the rule as exactly six consecutive em dashes: `——————` (six U+2014 characters), in **Cardo 12 pt, bold, white `#FFFFFF`**, without highlighting. Its paragraph uses Normal text, 150% line spacing, 0 pt before and 8 pt after. Keep it with the following paragraph as a pagination refinement. Do not use hyphens, underscores, or a full-width paragraph border. Ensure white/bold formatting does not spill into the subtitle or body.
-
-This is part of the full reference profile; it is visible against the beige page. Do not recolor it to compensate for an export that loses the page background. Do not add it to the white compact-summary variant unless requested. Verify the six characters, effective formatting, and position independently of the Title named style.
+Use white or cream on dark/photo covers and olive on light or white pages. Preserve approved page backgrounds; do not recolor content to compensate for an export defect. If the editor requires a full paragraph border, use an isolated empty paragraph with controlled indents to achieve the short width. Inspect the rendered stroke for continuity and ensure formatting does not spill into adjacent text. The compact-summary variant does not require a decorative rule.
 
 ## Page and color layers
 
@@ -92,7 +90,7 @@ All linked text stays olive and underlined. If a header contains a hyperlink, us
 
 ### Comparison and reference tables
 
-Use one olive header row, cream body cells and fine horizontal separators. Remove vertical and perimeter rules unless a specific grouping genuinely needs them. Start with 7 pt top/bottom padding and 8–10 pt left/right padding; compact lookup tables may use 4–5 pt vertically after a rendered fit check. Top-align prose. Use 0 pt paragraph spacing at the end of a cell and 4 pt between meaningful paragraphs inside it. Keep native list indents compact, approximately 12 pt hanging indent.
+Use one olive header row, cream body cells and fine horizontal separators. Include fine internal vertical column rules in data/comparison tables as well as horizontal separators; avoid heavy perimeter boxes. Decorative card grids remain separate panels: strokes must stop at each cell edge and never bridge a gutter. Start with 7 pt top/bottom padding and 8–10 pt left/right padding; compact lookup tables may use 4–5 pt vertically after a rendered fit check. Top-align prose. Use 0 pt paragraph spacing at the end of a cell and 4 pt between meaningful paragraphs inside it. Keep native list indents compact, approximately 12 pt hanging indent.
 
 Align the table's outer left and right edges with the surrounding body paragraphs by default. Remove inherited table insets and unnecessarily narrow or centered placements; internal cell padding stays inside those outer edges. Measure the local prose column, including any intentional paragraph indents, rather than using a universal table width. A wider table is a deliberate page-fit exception under the breakout guidance below.
 
@@ -167,7 +165,7 @@ The default running footer is a native one-row, three-column table with evenly d
 - Right paragraph has Heading 4 role with explicit local Sen 8 pt, non-italic, gray overrides. Apply the role first, then the overrides so the italic olive body Heading 4 does not replace the footer appearance.
 - Leading empty paragraph: Lexend Giga 8 pt, 100% line spacing, 0 pt after. Center page-number paragraph: Sen 8 pt, centered, 100% line spacing, 0 pt before/after, aligned with the named labels. Trailing empty paragraphs use single spacing and no added space.
 
-**First-page numbering:** center its native automatic PAGE_NUMBER field as well, using Sen 8 pt warm gray. Preserve different-first-page behavior and page-number start of 1; do not add the running names to the first page unless requested. This centered placement overrides the source’s right-aligned first-page number. Use a dynamic field, not a hardcoded numeral.
+**Cover and divider numbering:** suppress printed folios on covers and divider pages, including illustrated section openers. Continue counting these pages in the document sequence; do not restart body pagination. Use different-first-page footers where appropriate. Body pages retain centered automatic numbering. This is distinct from decks, which omit slide numbers entirely.
 
 Create destination-native footer objects; never copy source IDs. Adapt footer names independently per tab/section. Inspect table borders visually: source readback omits border settings, so do not assume visible default black borders are correct. The intended named labels should not be enclosed in newly introduced visible grid lines.
 
@@ -181,7 +179,7 @@ Deliver one continuous PDF in the document's tab order. Preserve the designed co
 
 1. Read the current tab order and export the entire document. Record the native revision and keep the unmodified export as the job's source snapshot. Inspect a page inventory and contact sheet. For each proposed removal, record its original page number, label, and reason, and visually confirm it is generated or empty. Never reuse a previous job's page-removal indices.
 2. Build an explicit original-page → final-page map. Keep every substantive page in its original order, including short ending pages and illustrated section covers. Confirm that no content disappeared and that no blank or generated label page remains. Preserve page dimensions, embedded fonts, selectable text, illustrations, and annotations; do not rebuild the report from screenshots or rasterize the PDF.
-3. Use continuous Arabic page numbers starting at 1 on the cover, including all retained section openers. Derive each number from the final page order, never from the tab's local numbering. Set the PDF's page labels to the same sequence.
+3. Count continuously from page 1 on the cover, including all retained section openers, but do not print folios on covers or divider pages. Print continuous Arabic folios on body pages only. Derive each number from the final page order, never from the tab's local numbering. Set the PDF's page labels to the same sequence.
 
 ### Footer finishing
 
@@ -743,6 +741,25 @@ Large domain cards have softly rounded corners, approximately 10% of card width,
 
 Small versions are fully rounded **pills**: icon plus uppercase name, generous horizontal inset, vertically centered, with consistent height and stroke weight. A practical document starting point is 7.5–9 pt labels, 12–16 pt icons and 20–24 pt overall height. Preserve readable sizing; widen a column within approved margins or stack whole pills rather than compressing labels or breaking words. Use at most two domain pills per item, and only where relevance is explicit.
 
-Use the full strip where the organization introduces its focus areas. Use pills above relevant example headings, within selected crisis cards, or below selected table-row labels. Leave cross-cutting material untagged when a single-domain association would mislead. The domain system is distinct from framework navigation and capacity taxonomies; never equate their categories automatically. Do not add domain decoration to every page, citation, TOC entry, or section divider.
+Use the full strip once where the organization introduces its focus areas. In long-form reports, omit inline domain pills in examples and matrices by default; add them only when explicitly approved for that placement. Preserve existing crisis illustrations and other approved content icons; domain branding must not replace them. Leave cross-cutting material untagged when a single-domain association would mislead. The domain system is distinct from framework navigation and capacity taxonomies; never equate their categories automatically. Do not add domain decoration to every page, citation, TOC entry, or section divider.
 
 Keep pills with their associated heading/content. Preserve editable text and tables. Where the host cannot render rounded native cards/pills faithfully, insert high-resolution transparent renders of the small brand component only; never flatten the surrounding prose or a complete table into an image. Retain the source SVGs and tokens, and verify insertion dimensions and optical alignment in the editor. Preserve names in nearby native text or accessible descriptions wherever the host supports them.
+
+
+## Review refinements — 5 November 2026
+
+### Framework navigation
+
+A framework marker identifies the practical tool, not the whole surrounding chapter. Place it directly above the relevant table, keep it with the first row, and start each tool on a fresh page when the document uses a toolkit structure. Use a clear Sen heading, approved Feather arrow, and restrained olive accent. Do not create an otherwise empty divider merely to hold a framework label. Main TOC framework rows remain secondary at 10 pt with generous right inset; their destinations must be the actual tools after reflow. Keep chapter backgrounds flat and consistent, with white supporting-reference sections; do not introduce diagonal gradients.
+
+### Readable table hierarchy
+
+Treat percentage reductions in review notes as relative design intent, not cumulative instructions. Begin with 10.5–11 pt body and approximately 10 pt headers; do not go below 10 pt without a specific approved exception. Adjust widths, padding and leading before shrinking type. Use uppercase Sen column headers at approximately 10 pt, with consistent weight and padding. Primary labels can be bold; explanatory subtitles beneath them should be regular weight. Apply the system consistently across comparable tables and their continuation pages. Never force a large matrix onto one page at the expense of legibility.
+
+### Bibliography and reference material
+
+Give every citation and its summary separate paragraphs. Use consistent modest spacing and summary indents, keep each short citation with its summary, and avoid chaining successive entries. Bold resource/book titles where the reference design calls for title emphasis; keep author and metadata formatting consistent without rewriting source titles. A duplicate summary may become a cross-reference while the full bibliographic record remains available. Validate the complete destination of every wrapped hyperlink, not merely whether an annotation exists. Links remain underlined olive, including newly inserted URLs.
+
+### Review and release checks
+
+Capture exact annotation anchors for short notes such as “Bold” or “Runt”; never guess the intended span from the page number alone. Preserve reviewer threads in a private register and distinguish implemented, verified, superseded and unresolved outcomes. Client comment text and private source identifiers do not belong in the public brand kit. Recheck all page transitions after content changes, then update main/local TOCs, internal links, bookmarks and printed folios from the final page map. A native API readback is not proof of rendered layout. Keep the latest editable source as the source of truth; record any export-only finishing explicitly.
