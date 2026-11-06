@@ -1,3 +1,9 @@
+## 2.2.5 — 2026-11-05
+
+- Adopt the approved C3 cream framework band with one olive left rule and stacked Sen label/title.
+- Match secondary TOC framework rows with compact cream bands, olive left rules, inset page numbers, and no arrows.
+- Require character-style and heading-link verification after marker changes.
+
 ## 2.2.4 — 2026-11-05
 
 - Replace simulated dash rules with true solid strokes.

@@ -1,6 +1,6 @@
 # Earthkind document styling
 
-Version 2.2.4 · 5 November 2026 · Portable instructions for Codex, Claude, or another document editor.
+Version 2.2.5 · 5 November 2026 · Portable instructions for Codex, Claude, or another document editor.
 
 ## Universal line-break and pagination check
 
@@ -750,7 +750,13 @@ Keep pills with their associated heading/content. Preserve editable text and tab
 
 ### Framework navigation
 
-A framework marker identifies the practical tool, not the whole surrounding chapter. Place it directly above the relevant table, keep it with the first row, and start each tool on a fresh page when the document uses a toolkit structure. Use a clear Sen heading, approved Feather arrow, and restrained olive accent. Do not create an otherwise empty divider merely to hold a framework label. Main TOC framework rows remain secondary at 10 pt with generous right inset; their destinations must be the actual tools after reflow. Keep chapter backgrounds flat and consistent, with white supporting-reference sections; do not introduce diagonal gradients.
+A framework marker identifies the practical tool, not the whole surrounding chapter. Use the approved **C3 left-accent band** for all five tools: a flat cream #F0EDDF band aligned to the reading column, one 2 pt olive #647855 left rule, and no other visible border or arrow. Stack a small uppercase `FRAMEWORK N` label (Sen Bold, 8 pt) above the tool name in title case (Sen Bold, 15 pt); both are olive. Provide approximately 10 pt horizontal inset and 7 pt top/bottom padding. Keep the two lines close, with no inherited body-paragraph spacing, and leave approximately 12 pt of clear space before the table. Match all five markers, including the longest title; wrap the title only at a natural phrase boundary when needed.
+
+Place the band directly above its practical table, keep the complete band with the first row, and retain deliberate fresh-page starts. Do not create an otherwise empty divider merely to hold a framework label. In Google Docs, use native editable text with paragraph shading and matching joined border settings; apply character formatting after named paragraph styles so the title does not revert to the body serif. Preserve or repair heading-link targets after splitting/replacing a marker.
+
+Use a compact matching treatment for the five main TOC framework rows: cream fill spanning label and page-number cells, a 2 pt olive rule on the outer left edge only, Sen Bold 10 pt text, approximately 10 pt left and 12 pt right padding, and a consistent right-aligned page-number column. Keep these entries secondary to chapter entries. Retain their single-line `FRAMEWORK N: TOOL NAME` wording when it fits; omit the old arrow. Link labels in underlined olive to the actual tool headings. Do not add the large two-line body marker to the TOC. Verify destinations and page numbers after reflow.
+
+Keep chapter backgrounds flat and consistent, with white supporting-reference sections; do not introduce diagonal gradients.
 
 ### Readable table hierarchy
 
